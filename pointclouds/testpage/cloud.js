@@ -17,7 +17,7 @@
         "lz": -77.86,
         "ux": 432582.3,
         "uy": 5785111.2,
-        "uz": -69.62
+        "uz": -69.621
     },
     "pointAttributes": [
         "POSITION_CARTESIAN",
