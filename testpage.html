@@ -74,7 +74,10 @@
 			viewer.fitToScreen();
 			
 		});
-			
+		
+		let sceneSG = new Potree.Scene();
+		viewer.setScene(sceneSG);
+		
 		sceneSG.addAnnotation([799798.15, 5871672.10, 455.94], { 
  			"title": "Trees", 
  			"description": `Point cloud of a small section in Sorvilier, Switzerland. <br> 
